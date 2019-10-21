@@ -16,6 +16,8 @@ The dataset contains 22699 3D shapes covering 24 shape categories:
 | maximum parts per shape | 122 | 47 | 5 | 4 | 59 | 5 | 3 | 8 | 5 | 8 | 9 | 8 | 18 | 3 | 100 | 63 | 3 | 8 | 4 | 11 | 5 | 43 | 8 | 30 |
 | minimum parts per shape | 2 | 2 | 2 | 2 | 4 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 13 | 2 | 3 | 2 | 2 | 2 | 2 | 2 | 2 |
 
+The dataset contains 22369 3D shapes covering 24 shape categories:
+
 |  category_name  |  Bag   |  Bed   |  Bottle   |  Bowl   |  Chair   |  Clock   |  Display   |  Door   |  Earphone   |  Faucet   |  Hat   |  Keyboard   |  Knife   |  Lamp   |  Laptop   |  Microwave   |  Mug   |  Refrigerator   |  Scissors   |  Storage   |  Table   |  TrashCan   |  Vase   |  Dishwasher   |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | number of shapes |  154   |  147   |  511   |  102   |  6201   |  426   |  329   |  198   |  269   |  826   |  251   |  109   |  486   |  2603   |  92   |  81   |  231   |  164   |  112   |  2598   |  5868   |  296   |  180   |  135   |
