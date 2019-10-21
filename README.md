@@ -23,6 +23,7 @@ The dataset contains 22699 3D shapes covering 24 shape categories:
 | number of parts |  343   |  3534   |  1432   |  213   |  38858   |  1152   |  928   |  1174   |  586   |  1193   |  3986   |  588   |  5690   |  1571   |  12567   |  270   |  346   |  529   |  671   |  394   |  35507   |  30408   |  2580   |  447   |
 | maximum parts per shape |  4   |  89   |  5   |  3   |  30   |  8   |  8   |  5   |  9   |  8   |  18   |  3   |  64   |  5   |  128   |  3   |  8   |  4   |  8   |  5   |  101   |  50   |  43   |  4   |
 | minimum parts per shape |  2   |  4   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |  13   |  2   |  2   |  2   |  3   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |
+
 ***Table 1. Specific information of our dataset.***
 
 
