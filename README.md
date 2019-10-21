@@ -18,12 +18,12 @@ The dataset contains 22699 3D shapes covering 24 shape categories:
 
 The dataset contains 22369 3D shapes covering 24 shape categories:
 
-|  category_name  |  Bag   |  Bed   |  Bottle   |  Bowl   |  Chair   |  Clock   |  Display   |  Door   |  Earphone   |  Faucet   |  Hat   |  Keyboard   |  Knife   |  Lamp   |  Laptop   |  Microwave   |  Mug   |  Refrigerator   |  Scissors   |  Storage   |  Table   |  TrashCan   |  Vase   |  Dishwasher   |
+|  category_name  |  Bag   |  Bed   |  Bottle   |  Bowl   |  Chair   |  Clock   |  Display   |  Door   |  Faucet   |  Hat   |  Keyboard   |  Knife   |  Lamp   |  Laptop   |  Microwave   |  Mug   |  Refrigerator   |  Scissors   |  Storage   |  Table   |  TrashCan   |  Vase   |  Dishwasher   |  Earphone   |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| number of shapes |  154   |  147   |  511   |  102   |  6201   |  426   |  329   |  198   |  269   |  826   |  251   |  109   |  486   |  2603   |  92   |  81   |  231   |  164   |  112   |  2598   |  5868   |  296   |  180   |  135   |
-| number of parts |  343   |  3534   |  1432   |  213   |  38858   |  1152   |  1174   |  586   |  1193   |  3986   |  588   |  5690   |  1571   |  12567   |  270   |  346   |  529   |  671   |  394   |  35507   |  30408   |  2580   |  447   |  928   |
-| maximum parts per shape |  4   |  89   |  5   |  3   |  30   |  8   |  5   |  9   |  8   |  18   |  3   |  64   |  5   |  128   |  3   |  8   |  4   |  8   |  5   |  101   |  50   |  43   |  4   |  8   |
-| minimum parts per shape |  2   |  4   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |  13   |  2   |  2   |  2   |  3   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |
+| number of shapes |  154   |  147   |  511   |  102   |  6201   |  426   |  329   |  198   |  826   |  251   |  109   |  486   |  2603   |  92   |  81   |  231   |  164   |  112   |  2598   |  5868   |  296   |  180   |  135   |  269   |
+| number of parts |  343   |  3534   |  1432   |  213   |  38858   |  1152   |  1174   |  586   |  3986   |  588   |  5690   |  1571   |  12567   |  270   |  346   |  529   |  671   |  394   |  35507   |  30408   |  2580   |  447   |  928   |  1193   |
+| maximum parts per shape |  4   |  89   |  5   |  3   |  30   |  8   |  5   |  9   |  18   |  3   |  64   |  5   |  128   |  3   |  8   |  4   |  8   |  5   |  101   |  50   |  43   |  4   |  8   |  8   |
+| minimum parts per shape |  2   |  4   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |  13   |  2   |  2   |  2   |  3   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |  2   |
 
 ***Table 1. Specific information of our dataset.***
 
